@@ -27,4 +27,3 @@ Ce projet implémente la nouvelle version de la page profil utilisateur de Sport
    ```
 
 Le frontend sera accessible à l'adresse `http://localhost:3000`.
-```
