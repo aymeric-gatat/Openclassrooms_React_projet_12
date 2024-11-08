@@ -14,6 +14,7 @@ Ce projet implémente la nouvelle version de la page profil utilisateur de Sport
    npm install
    npm start
    ```
+Le backend sera accessible à l'adresse `http://localhost:3000/`.
 
 ### Frontend
 1. Accédez au dossier du frontend :
@@ -26,4 +27,4 @@ Ce projet implémente la nouvelle version de la page profil utilisateur de Sport
    npm run dev
    ```
 
-Le frontend sera accessible à l'adresse `http://localhost:3000`.
+Le frontend sera accessible à l'adresse `http://localhost:5173/`.
