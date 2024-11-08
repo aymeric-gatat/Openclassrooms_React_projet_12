@@ -1,0 +1,16 @@
+.tooltip {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #e60000;
+  padding: 4px;
+
+  .value {
+    font-size: 7px;
+    line-height: 24px;
+    font-weight: 500;
+    align-items: center;
+    color: #fff;
+  }
+}

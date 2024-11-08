@@ -1,0 +1,26 @@
+.bar {
+  .legend {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    .list-legend {
+      display: flex;
+      gap: 52px;
+      width: fit-content;
+      .item-legend {
+        position: relative;
+        height: fit-content;
+        .icon-legend {
+          position: absolute;
+          top: 50%;
+          left: -18px;
+          content: "";
+          width: 8px;
+          height: 8px;
+          border-radius: 100%;
+          transform: translateY(-50%);
+        }
+      }
+    }
+  }
+}
