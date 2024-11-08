@@ -28,5 +28,3 @@ Ce projet implémente la nouvelle version de la page profil utilisateur de Sport
 
 Le frontend sera accessible à l'adresse `http://localhost:3000`.
 ```
-
-Cela fonctionne parfaitement pour un fichier `README.md`. Il décrit brièvement les étapes nécessaires pour démarrer le backend et le frontend du projet.
