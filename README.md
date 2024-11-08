@@ -1,6 +1,3 @@
-Voici le README en format Markdown :
-
-```markdown
 # SportSee - Projet React
 
 Ce projet implémente la nouvelle version de la page profil utilisateur de SportSee, avec des graphiques et des statistiques sur l'activité sportive.
